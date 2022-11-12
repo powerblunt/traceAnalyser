@@ -1,0 +1,1 @@
+# School test library, in case of learning php
